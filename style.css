@@ -67,7 +67,7 @@ body {
 }
 
 .trip-container {
-    background-image: url(Img/icon-trip.svg);
+    background-image: url(icon-trip.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
