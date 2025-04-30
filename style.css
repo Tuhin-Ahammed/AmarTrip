@@ -68,7 +68,10 @@ body {
     font-weight: 50px;
     height: 10px;
 }
+.navbar-right ul li :nth-last-child(1) {
+    text-decoration: none;
 
+}
 .navbar-right ul li a:hover {
     color: #ce9f07;
 }
